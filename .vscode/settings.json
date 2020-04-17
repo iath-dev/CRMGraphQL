@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "browserslist",
+        "stylelint",
+        "tipología"
+        /** */
+    ],
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": false
+    },
+}
